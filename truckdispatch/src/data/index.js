@@ -4,10 +4,10 @@
 export const SITE_CONFIG = {
   name: "SwiftHaul",
   tagline: "Dispatch & Logistics",
-  phone: "1-800-555-1234",
-  phoneHref: "tel:+18005551234",
-  email: "info@swifthaul.com",
-  emailHref: "mailto:info@swifthaul.com",
+  phone: "(201)416-9210",
+  phoneHref: "tel:+12014169210",
+  email: "info.syntaxlogistics@gmail.com",
+  emailHref: "mailto:info.syntaxlogistics@gmail.com",
   availability: "Available 24/7, 365 days",
   social: [
     { name: "facebook", href: "#" },
@@ -342,8 +342,8 @@ export const FOOTER_LINKS = {
   ],
   Contact: [
     { label: "Get a Quote", href: "#contact" },
-    { label: "1-800-555-1234", href: "tel:+18005551234" },
-    { label: "info@swifthaul.com", href: "mailto:info@swifthaul.com" },
+    { label: "(201)416-9210", href: "tel:+12014169210" },
+    { label: "info.syntaxlogistics@gmail.com", href: "mailto:info.syntaxlogistics@gmail.com" },
     { label: "Support Center", href: "#" },
   ],
 };
