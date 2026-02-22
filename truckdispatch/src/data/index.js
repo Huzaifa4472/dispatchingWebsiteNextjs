@@ -2,13 +2,14 @@
 // SITE CONFIG — global company info used across header, footer, CTA, etc.
 // ─────────────────────────────────────────────────────────────────────────────
 export const SITE_CONFIG = {
-  name: "SwiftHaul",
+  name: "Syntax Logistics",
   tagline: "Dispatch & Logistics",
   phone: "(201)416-9210",
   phoneHref: "tel:+12014169210",
   email: "info.syntaxlogistics@gmail.com",
   emailHref: "mailto:info.syntaxlogistics@gmail.com",
   availability: "Available 24/7, 365 days",
+  address: "215 Tiffot Ct ,crestview, FL",
   social: [
     { name: "facebook", href: "#" },
     { name: "twitter", href: "#" },
@@ -263,11 +264,11 @@ export const HOW_IT_WORKS_STEPS = [
 export const TESTIMONIALS = [
   {
     name: "James Carter",
-    role: "Owner-Operator, 3 years with SwiftHaul",
+    role: "Owner-Operator, 3 years with Syntax Logistics",
     initials: "JC",
     avatarColor: "bg-blue-500",
     rating: 5,
-    text: "Before SwiftHaul I was spending 3-4 hours a day looking for loads myself. Now my dispatcher handles everything and I'm making 30% more per mile. Best investment I've made in my business.",
+    text: "Before Syntax Logistics I was spending 3-4 hours a day looking for loads myself. Now my dispatcher handles everything and I'm making 30% more per mile. Best investment I've made in my business.",
     stat: { value: "+30%", label: "Revenue increase" },
   },
   {
@@ -276,7 +277,7 @@ export const TESTIMONIALS = [
     initials: "MR",
     avatarColor: "bg-green-500",
     rating: 5,
-    text: "Managing a 12-truck fleet was overwhelming until we partnered with SwiftHaul. They keep all my drivers loaded, handle the paperwork, and I actually have time to grow the business now.",
+    text: "Managing a 12-truck fleet was overwhelming until we partnered with Syntax Logistics. They keep all my drivers loaded, handle the paperwork, and I actually have time to grow the business now.",
     stat: { value: "12 trucks", label: "All consistently loaded" },
   },
   {

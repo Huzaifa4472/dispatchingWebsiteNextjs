@@ -23,10 +23,10 @@ export default function Testimonials() {
           </span>
           <h2 className="text-4xl sm:text-5xl font-extrabold text-gray-900 leading-tight mb-5">
             Drivers Love{" "}
-            <span className="text-blue-500">SwiftHaul</span>
+            <span className="text-blue-500">Syntax Logistics</span>
           </h2>
           <p className="text-gray-500 text-lg leading-relaxed">
-            Don't take our word for it — hear from the owner-operators and
+            Don&apos;t take our word for it — hear from the owner-operators and
             fleet owners who grow their business with us every day.
           </p>
         </div>
@@ -50,7 +50,7 @@ export default function Testimonials() {
               <StarRating count={t.rating} />
 
               <p className="text-gray-600 text-base leading-relaxed mt-4 mb-6">
-                "{t.text}"
+                &quot;{t.text}&quot;
               </p>
 
               <div className="flex items-center justify-between">

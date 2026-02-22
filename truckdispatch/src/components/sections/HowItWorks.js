@@ -14,7 +14,7 @@ export default function HowItWorks() {
             <span className="text-blue-500">4 Simple Steps</span>
           </h2>
           <p className="text-gray-500 text-lg leading-relaxed">
-            Getting started with SwiftHaul is easy. Our streamlined onboarding
+            Getting started with Syntax Logistics is easy. Our streamlined onboarding
             gets you dispatched and earning faster.
           </p>
         </div>

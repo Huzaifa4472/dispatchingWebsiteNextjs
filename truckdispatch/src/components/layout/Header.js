@@ -55,7 +55,7 @@ export default function Header() {
             </div>
             <div className="flex flex-col leading-tight">
               <span className="text-gray-900 font-bold text-xl tracking-tight">
-                Swift<span className="text-blue-500">Haul</span>
+                Syntax<span className="text-blue-500"> Logistics</span>
               </span>
               <span className="text-gray-400 text-[10px] tracking-widest uppercase font-medium">
                 Dispatch & Logistics

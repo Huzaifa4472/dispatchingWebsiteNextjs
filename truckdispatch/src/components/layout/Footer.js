@@ -24,7 +24,7 @@ export default function Footer() {
               </div>
               <div>
                 <div className="text-white font-bold text-xl">
-                  Swift<span className="text-blue-400">Haul</span>
+                  Syntax<span className="text-blue-400"> Logistics</span>
                 </div>
                 <div className="text-gray-600 text-[10px] tracking-widest uppercase">
                   {SITE_CONFIG.tagline}
@@ -61,6 +61,14 @@ export default function Footer() {
                   </svg>
                 </div>
                 {SITE_CONFIG.availability}
+              </div>
+              <div className="flex items-center gap-2.5 text-sm">
+                <div className="w-7 h-7 bg-white/5 rounded-lg flex items-center justify-center shrink-0">
+                  <svg className="w-3.5 h-3.5 text-blue-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M12 2C8.686 2 6 4.686 6 8c0 5.25 6 13 6 13s6-7.75 6-13c0-3.314-2.686-6-6-6zm0 8a2 2 0 110-4 2 2 0 010 4z" />
+                  </svg>
+                </div>
+                {SITE_CONFIG.address}
               </div>
             </div>
 

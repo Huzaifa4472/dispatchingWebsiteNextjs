@@ -85,14 +85,14 @@ export default function About() {
           {/* Right — Content */}
           <div>
             <span className="inline-block text-blue-500 font-bold text-sm tracking-widest uppercase mb-4">
-              About SwiftHaul
+              About Syntax Logistics
             </span>
             <h2 className="text-4xl sm:text-5xl font-extrabold text-gray-900 leading-tight mb-6">
               We Keep Your Wheels{" "}
               <span className="text-blue-500">Rolling</span>
             </h2>
             <p className="text-gray-500 text-lg leading-relaxed mb-6">
-              SwiftHaul is a premium truck dispatch company specializing in
+              Syntax Logistics is a premium truck dispatch company specializing in
               owner-operators and small fleets. We act as your back-office
               team — finding loads, negotiating rates, and handling all the
               paperwork so you can focus on what you do best: driving.
